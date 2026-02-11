@@ -1,6 +1,6 @@
-# <b>OSC Leaks</b>
+# <b>OSC Archive</b>
 
-<p><b>OSC Leaks</b> is a fan-made project by the Object Show community. It archives and shares content from popular Object Show series, including <i>Battle for Dream Island (BFDI)</i> by Jacknjellify and <i>Inanimate Insanity</i> by AnimationEpic.</p>
+<p><b>OSC Archive</b> is a fan-made project by the Object Show community. It archives and shares content from popular Object Show series, including <i>Battle for Dream Island (BFDI)</i> by Jacknjellify and <i>Inanimate Insanity</i> by AnimationEpic.</p>
 
 <p><b>Disclaimer:</b> This site is unofficial and not affiliated with the original creators. All content is shared for preservation, research, and fan discussion purposes only.</p>
 
@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Purpose</h2>
-<p>OSC Leaks aims to provide a centralized place for fans to explore and learn about Object Shows, including rare or hard-to-find content, while respecting the original creators' work.</p>
+<p>OSC Archive aims to provide a centralized place for fans to explore and learn about Object Shows, including rare or hard-to-find content, while respecting the original creators' work.</p>
 
 <h2>Access the Site</h2>
 <p>Visit the live site at: <a href="https://oscleaks.github.io/Oscleaks/" target="_blank">https://oscleaks.github.io/Oscleaks/</a></p>
